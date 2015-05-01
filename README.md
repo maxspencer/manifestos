@@ -11,7 +11,7 @@ the 2015 UK general election. I've got some of the way there with
 [manifestos.org.uk](http://manifestos.org.uk), but the amount of variety in
 source documents has made fully-automated parsing and conversion very difficult.
 
-I recently heard about [Sym Roe's](https://twitter.com/symroe)
+I recently heard about [Sym Roe's](https://github.com/symroe)
 [DemocracyClub/manifestos](https://github.com/DemocracyClub/manifestos)
 repository and decided that it offered a great solution: Use a Github repo as an
 extra level of indirection. This repo will contain the original PDFs and open
