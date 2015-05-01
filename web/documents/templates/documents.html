@@ -1,8 +1,0 @@
-{% extends "base.html" %}
-{% block content %}
-<ul>
-  {% for doc in docs %}
-    <li><a href="{% url document doc.pk %}">{{ doc.title }}</a></li>
-  {% endfor %}
-  </ul>
-{% endblock %}
