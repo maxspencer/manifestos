@@ -2,6 +2,8 @@
 
 # THE CONSERVATIVE PARTY MANIFESTO 2015
 
+**STRONG LEADERSHIP - A CLEAR ECONOMIC PLAN - A BRIGHTER, MORE SECURE FUTURE**
+
 </span>
 <span class="page" id="page-2">
 
@@ -82,7 +84,7 @@ we will not raise VAT, National Insurance contributions or Income Tax but we wil
 
 we will continue to increase the Basic State Pension by at least 2.5 per cent through the triple lock, give you the freedom to use your pension savings as you want and pass them on tax-free and we will cap the amount you can be charged for your residential care – so you can have the dignity and security you deserve in your old age.
 
-The next Conservative Government will secure a better future for you, your family and Britain.
+**The next Conservative Government will secure a better future for you, your family and Britain.**
 
 </span>
 <span class="page" id="page-6">
