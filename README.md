@@ -6,10 +6,10 @@ A Git repository containing UK party political manifestos in open data formats.
 
 Manifesto    | Source | Markdown | Images
 -------------|--------|----------|-------
-conservative | ✓ |  | 
-green        | ✓ |  | 
+conservative | ✓ |  | ✓
+green        | ✓ |  | ✓
 labour       | ✓ | ✓ | ✓
-libdem       | ✓ |  | 
+libdem       | ✓ |  | ✓
 plaid        | ✓ |  | 
 snp          | ✓ |  | 
 ukip         | ✓ |  | 
