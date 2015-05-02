@@ -2,6 +2,18 @@
 
 A Git repository containing UK party political manifestos in open data formats.
 
+## Progress (2015 manifestos)
+
+Manifesto    | Source | Markdown | Images
+-------------|--------|----------|-------
+conservative | ✓ |  | 
+green        | ✓ |  | 
+labour       | ✓ | ✓ | ✓
+libdem       | ✓ |  | 
+plaid        | ✓ |  | 
+snp          | ✓ |  | 
+ukip         | ✓ |  | 
+
 ## About this fork
 
 In March 2015 I started working on a project to automatically convert PDF
