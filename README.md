@@ -11,7 +11,7 @@ green        | ✓ |  | ✓
 labour       | ✓ | ✓ | ✓
 libdem       | ✓ |  | ✓
 plaid        | ✓ |  | ✓
-snp          | ✓ |  | 
+snp          | ✓ |  | ✓
 ukip         | ✓ |  | 
 
 ## About this fork
