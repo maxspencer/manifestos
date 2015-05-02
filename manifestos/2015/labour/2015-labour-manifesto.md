@@ -155,7 +155,7 @@ Our plan is to build a secure, prosperous and more equal country open to the wor
 </span>
 <span class="page" id="page-16">
 
-We will build an economy that works for working people
+## We will build an economy that works for working people
 
 </span>
 <span class="page" id="page-17">
@@ -175,7 +175,7 @@ We will have to work and earn our way toward a more fairly shared and enduring p
 </span>
 <span class="page" id="page-18">
 
-We have been quick to seize the opportunities of the internet. We have big strengths to build upon: world-leading universities, an outstanding science research base, an open economy with one of the highest rates of foreign direct investment in the world, and many successful global companies.
+We have been quick to seize the opportunities of the internet. We have big strengths to build upon: world-leading universities, an outstanding science research base, an open economy with one of the highest rates of foreign direct investment in the world, and manys successful global companies.
 
 An inclusive wealth-creating economy works when there is a shared sense of responsibility, so we will be a government that is both pro-business and pro-worker. We value all our businesses as organisations of innovation and wealth production, and we will work strategically with them to create wealth. We value our trade unions as an essential force for a decent society and as guarantors of skills and fair wages.
 
@@ -871,7 +871,7 @@ Our system of public service broadcasting is one of Britain’s great strengths.
 
 ### Labour will:
 
-#### set up a people-led Constitutional Convention to determine the future of UK’s governance
+set up a people-led Constitutional Convention to determine the future of UK’s governance
 
 replace the House of Lords with a Senate of the Nations and Regions
 
