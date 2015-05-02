@@ -10,7 +10,7 @@ conservative | ✓ |  | ✓
 green        | ✓ |  | ✓
 labour       | ✓ | ✓ | ✓
 libdem       | ✓ |  | ✓
-plaid        | ✓ |  | 
+plaid        | ✓ |  | ✓
 snp          | ✓ |  | 
 ukip         | ✓ |  | 
 
