@@ -30,7 +30,7 @@ def pdftohtml_parse(pdf_path):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('pdf', help='source PDF document')
+    parser.add_argument('source', help='source PDF document')
     parser.add_argument(
         '-r', '--roi', type=float, nargs=4,
         help='region of interest (expressed as proportions of page width and height)'
