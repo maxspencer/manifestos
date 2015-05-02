@@ -12,7 +12,7 @@ labour       | ✓ | ✓ | ✓
 libdem       | ✓ |  | ✓
 plaid        | ✓ |  | ✓
 snp          | ✓ |  | ✓
-ukip         | ✓ |  | 
+ukip         | ✓ |  | ✓
 
 ## About this fork
 
