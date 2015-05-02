@@ -66,17 +66,15 @@ if __name__ == '__main__':
         smallest_col=args.min_column_width
     )
     for page in refined_document.page_list:
-        print('<div class="page" id="page-{}">'.format(page.number))
-        to_print = []
+        print('<span class="page" id="page-{}">\n'.format(page.number))
+        #to_print = []
         for content in page.contents:
             try:
-                to_print.append(
-                    '{} {}'.format('#' * content.level, content.string)
-                )
+                print('{} {}'.format('#' * content.level, content.string))
             except AttributeError:
                 # Not a heading
-                to_print.append(content.string)
-        print('\n\n'.join(to_print))
-        print('</div>\n')
+                print(content.string)
+            print()
+        print('</span>')
     
 
