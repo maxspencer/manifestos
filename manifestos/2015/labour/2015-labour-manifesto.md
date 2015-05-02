@@ -1,8 +1,10 @@
 <span class="page" id="page-1">
 
-when working people succeed. This is a plan to reward hard work, share prosperity and build a better Britain.
+Britain only succeeds when working people succeed. This is a plan to reward hard work, share prosperity and build a better Britain.
 
 # Britain can be better
+
+The Labour Party Manifesto 2015
 
 </span>
 <span class="page" id="page-2">
@@ -29,41 +31,21 @@ We will get national debt falling and a surplus on the current budget as soon as
 
 ## Contents
 
-Foreword by Ed Miliband...
+Foreword by Ed Miliband... p5
 
-A better future for Britain...
+A better future for Britain... p7
 
-Building an economy that works for working people...
+Building an economy that works for working people... p15
 
-### 
+Providing world-class health and education services... p31
 
-#### p15
+Helping our families and communities to thrive... p43
 
-Providing world-class health and education services...
+Reforming government to give more power to people... p61
 
-### 
+Standing up for Britain’s interests in Europe and the world... p73
 
-#### p31
-
-Helping our families and communities to thrive...
-
-### 
-
-#### p43
-
-Reforming government to give more power to people...
-
-#### p61
-
-Standing up for Britain’s interests in Europe and the world...
-
-#### p73
-
-Time for change...
-
-#### p83 p5
-
-#### p7
+Time for change... p83
 
 </span>
 <span class="page" id="page-5">
@@ -71,7 +53,7 @@ Time for change...
 </span>
 <span class="page" id="page-6">
 
-## oreword
+## Foreword
 
 We are a great country. With great people. In the last five years I have heard your stories, your hopes and your dreams. And I have heard too your frustrations.
 
@@ -99,16 +81,12 @@ For me, the privilege of serving as Prime Minister in our country would be for o
 </span>
 <span class="page" id="page-8">
 
-## e will build a better future for Britain
+## We will build a better future for Britain
 
 </span>
 <span class="page" id="page-9">
 
-## B
-
-ritain is a great country ready to build a better future.
-
-This manifesto sets out Labour’s plan for national renewal.
+**Britain is a great country ready to build a better future. This manifesto sets out Labour’s plan for national renewal.**
 
 The British people, are known for tolerance, responsibility to others and for our belief in the value of hard work. We look confidently outward to the world. These are great British traditions - things we all believe in, things our country is good at. We are at our best when we work together. We see this every day in our workplaces, in our families, and in our communities. People want to get on, they want to give their children a better future, and they want to help to change Britain for the better.
 
@@ -177,22 +155,12 @@ Our plan is to build a secure, prosperous and more equal country open to the wor
 </span>
 <span class="page" id="page-16">
 
-### e will build an economy that works for working people
+We will build an economy that works for working people
 
 </span>
 <span class="page" id="page-17">
 
-## W
-
-e know a simple truth. Britain only succeeds when working families
-
-succeed. It is how our country has won through in the past and how
-
-it will succeed in the future. But so many people are putting in the hours and not seeing the rewards. That is why there is a cost of living crisis. Our
-
-first task in government is to change our economy so that it works for all
-
-of Britain’s businesses and working people.
+**We know a simple truth. Britain only succeeds when working families succeed. It is how our country has won through in the past and how it will succeed in the future. But so many people are putting in the hours and not seeing the rewards. That is why there is a cost of living crisis. Our first task in government is to change our economy so that it works for all of Britain’s businesses and working people.**
 
 The Conservatives claim that the economy is fixed and that our country is on the right track. But the economy is not creating the productive, high-skilled and well-paid jobs that we need to raise living standards. The lack of rewarding work and training opportunities is trapping hundreds of thousands of young people in a cycle of benefits and low-paid, insecure jobs. And consumers are overcharged in markets they rely on to meet their everyday needs, whether to heat their homes or travel to work.
 
@@ -399,24 +367,12 @@ introduce a British Investment Bank and support a network of regional banks.
 </span>
 <span class="page" id="page-32">
 
-### e will provide world-class health and education services
+## We will provide world-class health and education services
 
 </span>
 <span class="page" id="page-33">
 
-## O
-
-### ur NHS, care services, schools, colleges and other public services
-
-make up the essential fabric of our society. People need them to be
-
-able to live secure and fulfilling lives. Britain needs them if we are to succeed as a country. But under the Conservatives they are under threat.
-
-The next Labour Government will protect, improve and invest in our public
-
-services, while giving individuals and communities more control over
-
-their design and delivery.
+**Our NHS, care services, schools, colleges and other public services make up the essential fabric of our society. People need them to be able to live secure and fulfilling lives. Britain needs them if we are to succeed as a country. But under the Conservatives they are under threat. The next Labour Government will protect, improve and invest in our public services, while giving individuals and communities more control over their design and delivery.**
 
 The NHS is one of our great national institutions, and it is one of Labour’s proudest achievements. It embodies our belief that by the strength of our common endeavour, we achieve more than we achieve alone. But the future of the NHS is under threat. The Conservatives have put the wrong values at its heart, and patients are finding it harder to get the care they need.
 
@@ -553,18 +509,12 @@ ensure all young people study English and Maths to age 18.
 </span>
 <span class="page" id="page-44">
 
-### e will help our families and communities to thrive
+## We will help our families and communities to thrive
 
 </span>
 <span class="page" id="page-45">
 
-## A
-
-s a country we value compassion, tolerance and a sense of decency.
-
-But pressures on family life, growing inequality, anxieties about crime
-
-and anti-social behaviour, and a widespread loss of trust in our governing institutions, are creating insecurity in many communities.
+**As a country we value compassion, tolerance and a sense of decency. But pressures on family life, growing inequality, anxieties about crime and anti-social behaviour, and a widespread loss of trust in our governing institutions, are creating insecurity in many communities.**
 
 Labour believes a decent society grows out of family life and relationships, out of the work we do, and the local places to which we belong. We will help to create a more secure and inclusive society by building and strengthening the institutions that help individuals, families and communities to thrive.
 
@@ -807,24 +757,12 @@ give football fans a voice in club boardrooms.
 </span>
 <span class="page" id="page-62">
 
-### e will reform government to give more power to people
+## We will reform government to give more power to people
 
 </span>
 <span class="page" id="page-63">
 
-## P
-
-### eople who live in this country know that too much power is
-
-concentrated in too few hands. Those who make decisions on behalf
-
-of others, whether they are in Westminster, the European Union, in business, the media, or the public sector, are too often unaccountable. Our
-
-over-centralised system of government has prevented our nations, cities,
-
-county regions and towns from being able to take control and change
-
-things for themselves. We will end a century of centralisation.
+**People who live in this country know that too much power is concentrated in too few hands. Those who make decisions on behalf of others, whether they are in Westminster, the European Union, in business, the media, or the public sector, are too often unaccountable. Our over-centralised system of government has prevented our nations, cities, county regions and towns from being able to take control and change things for themselves. We will end a century of centralisation.**
 
 Labour believes meaningful and lasting change for the better is only possible when people are given the power to change things for themselves. Our governing mission is to break out of the traditional top-down, 'Westminster knows best approach', and devolve power and decision-making to people and their local communities.
 
@@ -965,28 +903,12 @@ implement the recommendations of the Leveson Inquiry.
 </span>
 <span class="page" id="page-74">
 
-### e will stand up for Britain’s interests in Europe and the world
+## We will stand up for Britain’s interests in Europe and the world
 
 </span>
 <span class="page" id="page-75">
 
-## W
-
-e live in turbulent times. The rise of ISIL, an aggressive Russia
-
-threatening its neighbours in eastern Europe, and continuing
-
-economic uncertainty in the Eurozone, are each a challenge to our national security. Labour is an internationalist party and believes Britain must
-
-engage with the global challenges we face, but not try and solve them on
-
-our own. We believe the Conservatives are damaging the interests of our
-
-country by turning their backs on Europe, and isolating us abroad. We will strengthen our national security, stand up for human rights, and work with
-
-other countries to tackle terrorism, climate change, and eliminate extreme
-
-poverty globally.
+**We live in turbulent times. The rise of ISIL, an aggressive Russia threatening its neighbours in eastern Europe, and continuing economic uncertainty in the Eurozone, are each a challenge to our national security. Labour is an internationalist party and believes Britain must engage with the global challenges we face, but not try and solve them on our own. We believe the Conservatives are damaging the interests of our country by turning their backs on Europe, and isolating us abroad. We will strengthen our national security, stand up for human rights, and work with other countries to tackle terrorism, climate change, and eliminate extreme poverty globally.**
 
 Britain has a unique influence in the world. We are the only country that is a member of the UN Security Council, NATO, the G7, the G20, the Commonwealth and the EU.
 
@@ -1081,7 +1003,7 @@ The private sector is essential to long-term development, and is often a positiv
 
 ### Labour will:
 
-#### conduct a Strategic Defence and Security Review in the first year of government
+conduct a Strategic Defence and Security Review in the first year of government
 
 return Britain to a leadership role in Europe, but reform the EU so that it works for Britain
 
@@ -1105,9 +1027,9 @@ push for an ambitious target in Paris to get to goal of net zero global emission
 </span>
 <span class="page" id="page-84">
 
-### ime for change
+## Time for change
 
-In this election the country has a choice.
+**In this election the country has a choice.**
 
 Either we can carry on as we are, with an economy that might work for some in the City of London but shuts out millions of people in the rest of the country. A country in which young people are left facing a worse life than their parents and an NHS under huge strain faces a real threat to its future.
 
@@ -1121,7 +1043,7 @@ Working people want an economy with better jobs and higher skills. Families want
 
 We deserve a country where everyone plays by the same rules, including those at the top.
 
-That's what this manifesto offers. It is the kind of country we know we have it in ourselves to be. Let's build it together.
+**That's what this manifesto offers. It is the kind of country we know we have it in ourselves to be. Let's build it together.**
 
 </span>
 <span class="page" id="page-85">
