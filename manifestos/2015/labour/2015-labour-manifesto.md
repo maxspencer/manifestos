@@ -1,6 +1,6 @@
 <span class="page" id="page-1">
 
-Britain only succeeds when working people succeed. This is a plan to reward hard work, share prosperity and build a better Britain.
+**Britain only succeeds when working people succeed. This is a plan to reward hard work, share prosperity and build a better Britain.**
 
 # Britain can be better
 
