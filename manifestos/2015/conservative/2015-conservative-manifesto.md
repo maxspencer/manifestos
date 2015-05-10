@@ -130,17 +130,21 @@ I hope you will give it your support, so that together, we can see through the t
 
 Your job, your home, the mortgage you pay, the school your children go to, your local hospital, your pension – all these things depend on a strong economy. So we will carry on working through our long-term economic plan. We will:
 
-keep our economy secure by running a surplus so that we start paying down our debts
+* keep our economy secure by **running a surplus so that we start paying down our debts**
 
- increase the tax-free Personal Allowance to £12,500 and the 40p Income Tax threshold to £50,000
+* **increase the tax-free Personal Allowance** to £12,500 and the 40p Income Tax threshold to £50,000
 
-commit to no increases in VAT, National Insurance contributions or Income Tax crack down on tax evasion and aggressive tax avoidance and ensure those who can afford to pay the most do
+* commit to **no increases in VAT, National Insurance contributions or Income Tax**
 
-rebalance our economy, build a Northern Powerhouse and back elected metro mayors pursue our ambition to become the most prosperous major economy in the world by the 2030s. 
+* **crack down on tax evasion and aggressive tax avoidance** and ensure those who can afford to pay the most do
+
+* rebalance our economy, **build a Northern Powerhouse** and back elected metro mayors
+
+* pursue our ambition to **become the most prosperous major economy** in the world by the 2030s. 
 
 Our long-term economic plan is turning around Britain’s economy. Five years ago, Britain was reeling from the chaos of Labour’s Great Recession; in 2014 we were the fastest growing of all the major advanced economies – last year, we grew 75 per cent faster than Germany, three times faster than the Eurozone and seven times faster than France. Five years ago, the budget deficit was more than 10 per cent of GDP, the highest in our peacetime history, and the national debt was rising out of control; today, the deficit is half that level and debt as a share of national income will start falling this financial year.
 
-#### The fastest growing of all the major advanced economies in 2014
+**The fastest growing of all the major advanced economies in 2014**
 
 Industries are coming back to life. Companies are striding into new markets. Manufacturers are returning to our shores. More tech companies are starting up here than anywhere else in Europe. We have overtaken France as the third largest car producer in Europe and there are 760,000 more businesses than in 2010 providing jobs and creating wealth across the country.
 
@@ -151,13 +155,13 @@ But the job is not finished. There are clouds on the international horizon. Huge
 </span>
 <span class="page" id="page-10">
 
-#### 1,000 jobs created for every day of the Parliament since 2010
+**1,000 jobs created for every day of the Parliament since 2010**
 
 We will finish the job we started in a balanced way. Those with the broadest shoulders have contributed the most to deficit reduction – which is why inequality has fallen, and child and pensioner poverty are down – and they will continue to do so. We will increase NHS spending every year. We will control spending, eliminate the deficit, and start to run a surplus. We will go from stuck in the red, to back in the black. By building on the foundations we have put in place, we will have a truly national recovery and be able to pursue our ambition for Britain to become the most prosperous major economy in the world by the 2030s.
 
 If we do not stick to our long-term economic plan, we will slip back again, reversing the progress we have made in the last five years. More borrowing – and the extra debt interest that it brings – means there is less money to spend on schools and hospitals. More spending means higher taxes for hardworking people, and interest rates that are higher than they otherwise would be – punishing homeowners, hurting businesses, costing jobs.
 
-A strong economy allows us to invest in and protect our public services like the NHS and schools
+> A strong economy allows us to invest in and protect our public services like the NHS and schools
 
 And failing to control our debt would be more than an economic failing; it would be a moral failing – leaving our children and grandchildren with debts that they could never hope to repay.
 
@@ -165,13 +169,13 @@ So you face a clear choice. Economic competence, with David Cameron as Prime Min
 
 ### Our plan of action:
 
-We will finish the job by eliminating the deficit to keep our economy secure and keep your taxes and mortgage payments down
+*We will finish the job by eliminating the deficit to keep our economy secure and keep your taxes and mortgage payments down*
 
 Our long-term economic plan reflects our values: we as a nation should not be piling up and passing on unaffordable levels of debt to the next generation. We will eliminate the deficit in a sensible and balanced way that will enable us to continue to increase spending on the NHS and cut Income Tax for 30 million working people.
 
 Our deficit reduction plan has two phases. The first will see us continue to reduce government spending by one per cent each year in real terms for the first two full financial years of the next Parliament, the same rate as over the last five years. That means saving £1 a year in every £100 that government spends. We don’t think there’s a business that couldn’t do that – and we don’t think government, when it is spending your money, should be any different.
 
-#### We have halved the deficit as a share of our economy
+**We have halved the deficit as a share of our economy**
 
 That will require a further £30 billion in fiscal consolidation over the next two years, on top of the £120 billion that we have already identified and delivered over this Parliament. We will find £13 billion from departmental savings, the same rate of reduction as in this Parliament. We will find £12 billion from welfare savings, on top of the £21 billion of savings delivered in this Parliament. And we will raise at least £5 billion from continuing to tackle tax evasion, and aggressive tax avoidance and tax planning, building on the £7 billion of annual savings we have delivered in this Parliament. This £30 billion of further consolidation is necessary to ensure that debt keeps falling as a share of GDP and to deliver a balanced structural current budget in 2017-18, meeting the new fiscal mandate that Parliament voted on earlier this year.
 
@@ -182,15 +186,15 @@ Our commitment goes further than this. A balanced current budget is not enough t
 
 That is why, in the second phase of our deficit reduction plan starting in 2018-19, we are set to move into surplus, with the Government taking in more than it is spending for the first time in 18 years. That means we can start properly paying down our debts and reducing the scale of annual interest payments – reducing the UK’s vulnerability to future shocks by fixing the roof while the sun is shining. We will achieve this by continuing to control government spending in 2018-19, no longer cutting it in real terms, but instead growing it in line with inflation.
 
-To eliminate the deficit we must continue to cut out wasteful spending and make government more efficient, effective and accountable
+> To eliminate the deficit we must continue to cut out wasteful spending and make government more efficient, effective and accountable
 
 From 2019-20, after a surplus has been achieved, spending will grow in line with GDP. A new fundamental principle of fiscal policy, monitored by the independent OBR, will ensure that in normal economic times, when the economy is growing, the government will always run a surplus in order to reduce our national debt and keep our economy secure, with a state neither smaller than we need nor bigger than we can afford. Total government spending as a share of our national income at the end of the next Parliament is forecast to be very slightly higher than in the year 2000, the year before Labour lost all control of spending and the national debt started its longest rise for hundreds of years.
 
 Our approach is focused on reducing wasteful spending, making savings in welfare, and continuing to crack down on tax evasion and aggressive avoidance. This means that we can commit to no increases in VAT, Income Tax or National Insurance. Tax rises on working people would harm our economy, reduce living standards and cost jobs. Instead, as we reduce the deficit, we will cut Income Tax, as we have done over the last five years: during the next Parliament, we will increase the tax-free Personal Allowance to £12,500 and the higher rate threshold to £50,000, so you keep more of your hard-earned money.
 
-The richest are paying a greater share of income tax than in any of Labour’s 13 years
+**The richest are paying a greater share of income tax than in any of Labour’s 13 years**
 
-We will continue to build a stronger, safer and more secure banking system that serves its customers and provides businesses with the finance they need to grow and create jobs
+#### We will continue to build a stronger, safer and more secure banking system that serves its customers and provides businesses with the finance they need to grow and create jobs
 
 We will make sure our financial services industry is the best regulated in the world with our new system of supervision led by the independent Bank of England. Our new Financial Policy Committee will monitor and control the growth of indebtedness and imbalances across the whole economy – a vital task that was totally ignored in the run up to the financial crisis. Our tough new Financial Conduct Authority will protect consumers and ensure that financial markets work for the benefit of the whole economy. To protect hardworking taxpayers from future banking crashes, we will finish the process of ring- fencing banks’ high street branches from their investment arms by 2019 at the latest. In order to ensure that new pay structures for bankers rebuild trust and reduce short- termism, we will ensure that Britain continues to have the toughest regime of bonus deferral and clawback of any financial centre. We will continue to sell the Government’s stakes in the bailed-out banks and building societies in order to deliver value for money for taxpayers and support the economy. Hardworking taxpayers supported the banks during the financial crisis and so the banks should in turn support them during the recovery – that is why we will keep the bank levy in place and restrict established banks’ ability to pay less tax by offsetting their profits against past losses.
 
@@ -200,15 +204,15 @@ We will make sure our financial services industry is the best regulated in the w
 </span>
 <span class="page" id="page-13">
 
-##### We will make the banks work for you
+#### We will make the banks work for you
 
 Our plan is to ensure banks help secure our recovery and back businesses to create jobs and growth in our economy. We capped payday lenders, made it easier for you to switch your bank account and will continue to support the credit union movement in making financial services more accessible. We will continue the successful Funding for Lending scheme into 2016. We will help new and existing challenger banks to inject fresh competition into the market for personal current accounts, mortgages and business loans, including through the British Business Bank, while backing the financial technology revolution. We will improve our support for investment into start-ups and roll-out our innovative Help to Grow scheme, which will plug a £1 billion finance gap for firms that are looking to expand, invest and take on new employees.
 
-##### We will continue to lead the world on tax and transparency
+#### We will continue to lead the world on tax and transparency
 
 Tackling tax evasion and aggressive tax avoidance and tax planning is an important part of our long-term economic plan. We will increase the annual tax charges paid by those with non-domiciled status, ensuring that they make a fair contribution to reducing the deficit, and continue to tackle abuses of this status. We will lead international efforts to ensure global companies pay their fair share in tax, as David Cameron did at the G8 Summit in Northern Ireland in 2013, which secured significant international progress on fairer tax rules and full transparency over who really owns companies. We will push for all countries to sign up to the Extractive Industries Transparency Initiative; review the implementation of the new international country-by-country tax reporting rules and consider the case for making this information publicly available on a multilateral basis. We will ensure developing countries have full access to global automatic tax information exchange systems and continue to build the capacity of tax authorities in developing countries. We are also making it a crime if companies fail to put in place measures to stop economic crime, such as tax evasion, in
 
-### We are fixing the economy so that everyone feels the benefit
+> We are fixing the economy so that everyone feels the benefit
 
 their organisations and making sure that the penalties are large enough to punish and deter.
 
@@ -220,7 +224,7 @@ We are committed to a truly national recovery, benefiting all parts of our count
 
 To help attract growth and new businesses we will improve connections to the South West with major investment in the M5, A358, A30 and A303, and the electrification of the Great Western Main Line – bringing new fast trains on the route. We will invest to boost tourism in the South West and ensure the world- class defence assets and cyber-security industries of the South West benefit the local economy.
 
-Britain's exports are growing fastest in the North East and our employment fastest in the North West
+**Britain's exports are growing fastest in the North East and our employment fastest in the North West**
 
 </span>
 <span class="page" id="page-14">
@@ -236,7 +240,7 @@ We will back business by investing a record £5.2 billion in better transport, u
 
 We will improve rail connections to East Anglia, delivering ‘Norwich in 90 minutes’ and ‘Ipswich in 60 minutes’ and upgrade key roads like the A11 and A47. We will support the creation of new jobs by backing the East’s great strengths – agri-tech, high-tech businesses around Cambridge, and energy businesses at Great Yarmouth and Lowestoft.
 
-We support policies that grow the economy as a whole, generating new jobs and higher wages for everybody
+> We support policies that grow the economy as a whole, generating new jobs and higher wages for everybody
 
 #### We will devolve powers and budgets to boost local growth in England
 
